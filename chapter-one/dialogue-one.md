@@ -1,5 +1,5 @@
 # Dialogue One
 
-## Goodmorning Lily  
+## Good morning Lily  
 
-## Goodmorning Jane  
+## Good morning Jane  
