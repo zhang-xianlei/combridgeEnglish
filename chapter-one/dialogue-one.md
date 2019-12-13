@@ -1,3 +1,6 @@
+---
+description: This is the first chapter dialogue about cheeting.
+---
 # Dialogue One
 
 ## Good morning Lily  
