@@ -6,4 +6,4 @@
 
 * [Dialogue one](chapter-one/dialogue-one.md)
 
-* [test code](chapter-one/testCode.md)
+* [test code](chapter-one/test-code.md)
